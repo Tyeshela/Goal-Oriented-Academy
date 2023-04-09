@@ -640,7 +640,7 @@ p {
   margin-top: 40px;
 }
 body{
-  background-image: url("images/bgimage.webp");
+  background: url("images/bgimage.webp");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
