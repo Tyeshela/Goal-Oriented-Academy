@@ -640,7 +640,7 @@ p {
   margin-top: 40px;
 }
 body{
-  background: url("images/bgimage.webp");
+  background: url("https://raw.githubusercontent.com/Tyeshela/Goal-Oriented-Academy/main/images/bgimage.webp");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
